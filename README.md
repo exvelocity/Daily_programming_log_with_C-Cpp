@@ -1,2 +1,3 @@
 # programming-with-c
-A log of daily problems solved for practice
+A daily log of solving problems with C and C++
+
